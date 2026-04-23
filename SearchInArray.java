@@ -1,9 +1,9 @@
 import java.util.Scanner;
-class Exist
+class SearchInArray
 {
     public static void main(String[] args)
     {
-       Scanner sc=new Scanner(System.in);
+       Scanner sc=new Sc anner(System.in);
        System.out.println("Enter the  size of an array");
        int N=sc.nextInt();
        int [] x=new int[N];
