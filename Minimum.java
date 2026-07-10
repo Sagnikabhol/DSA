@@ -12,8 +12,7 @@ class Minimum
         {
             if(arr[i]<ans)
             {
-              ans=arr[i];
-               
+              ans=arr[i];  
             }  
         }
         return ans;
