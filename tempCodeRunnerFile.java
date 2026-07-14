@@ -1,1 +1,2 @@
- start=mid+1;
+s[row];col++)
+             { 
