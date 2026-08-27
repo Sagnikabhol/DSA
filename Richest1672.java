@@ -8,7 +8,7 @@ class Richest1672
     static int maximumWealth(int[][]arr)
     {
       int max=0;
-        for(int person=0;i<arr.length;person++)
+        for(int person=0;person<arr.length;person++)
         {
             int sum=0;
             for(int account=0;account<arr[account].length;account++)
